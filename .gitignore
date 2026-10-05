@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Measurement logs
+*.csv
+
+# Vendor documents and software (not ours to redistribute)
+*.pdf
+*.zip
+*.exe
+*.dll
+
+# macOS
+.DS_Store
