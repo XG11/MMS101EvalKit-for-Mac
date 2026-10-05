@@ -30,7 +30,7 @@ Check that the board is visible:
 ls /dev/cu.usbserial-*
 ```
 
-macOS includes an FTDI driver. If nothing is listed, try another cable, then install the FTDI VCP driver from https://www.ftdichip.com/Drivers/VCP.htm.
+macOS includes an FTDI driver. If nothing is listed, try another cable, then try install the FTDI VCP driver.(as for Oct 5 2026 this website shown in Mitsumi datasheet is invalid, maybe try https://ftdichip.com/drivers/vcp-drivers/ instead)
 
 ## Usage
 
